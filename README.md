@@ -27,6 +27,6 @@ So, here I am, a coder, a musician, a poet, a fitness enthusiast, and a space ne
 
 
 Also checkout the articles I posted discussing about some interesting concepts in React-Typescript
-- ![Harness the Power of useImperativeHandle in React](https://medium.com/@vaib1324/harness-the-power-of-useimperativehandle-in-react-9995f53fe149)
-- ![Handling State in React with Zustand and TypeScript](https://medium.com/@vaib1324/handling-state-in-react-with-zustand-and-typescript-454464a07eed)
-- ![Enhancing Code Readability with chakraStyled in Chakra-UI](https://medium.com/@vaib1324/enhancing-code-readability-with-chakrastyled-in-chakra-ui-9c656219a924)
+- [Harness the Power of useImperativeHandle in React](https://medium.com/@vaib1324/harness-the-power-of-useimperativehandle-in-react-9995f53fe149)
+- [Handling State in React with Zustand and TypeScript](https://medium.com/@vaib1324/handling-state-in-react-with-zustand-and-typescript-454464a07eed)
+- [Enhancing Code Readability with chakraStyled in Chakra-UI](https://medium.com/@vaib1324/enhancing-code-readability-with-chakrastyled-in-chakra-ui-9c656219a924)

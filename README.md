@@ -11,6 +11,8 @@
 ![Chargebee](https://img.shields.io/badge/Chargebee-EC4C47?style=for-the-badge&logo=chargebee&logoColor=white)
 ![Deep Linking](https://img.shields.io/badge/Deep_Linking-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<a href="https://app.daily.dev/vaibhav85"><img src="https://api.daily.dev/devcards/eab2eb1ca36f4ce1a2f9e7fb9da55d55.png?r=cbw" width="400" alt="Vaibhav's Dev Card"/></a>
+
 I'm a 24-year-old front-end software engineer based in the beautiful Goa, India. With a bachelor's degree in Information Technology from Goa Engineering College under my belt, I've spent the last three years coding my way through various projects for a company based in Minnesota, USA.
 
 As an explorer in the vast universe of tech, I love diving into new technologies and always aim to follow best coding practices. But wait, there's more! Beyond the world of curly braces and semicolons, I'm a classical musician who can play the Tabla, with a degree in Music to vouch for my skills. 🎵
